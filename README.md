@@ -11,5 +11,3 @@ Another explanation
 ``` three backticks initiate a code block
 print("hello kosta how u doin?")
 ```
-
-![Alt_text](Bild1.PNG)

@@ -12,4 +12,4 @@ Another explanation
 print("hello kosta how u doin?")
 ```
 
-![Alt_text](.png)
+![Alt_text](Bild1.png)

@@ -7,3 +7,9 @@ Another explanation
 
 * 😲 Data Analytics day 1 - bullet points
 * Mission and timeline
+
+``` three backticks initiate a code block
+print("hello kosta how u doin?")
+```
+
+![Alt_text](.png)
